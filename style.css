@@ -22,3 +22,8 @@ border-color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: small;   
 }
+.img_deg{
+    float: right;
+    width: 500px;
+    height: 500px;
+}
